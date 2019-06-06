@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: ReserveMicroservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 612064698
+Implementation-Vendor-Id: com.exp
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/ReserveMicro
+ service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
