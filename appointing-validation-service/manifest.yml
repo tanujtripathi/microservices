@@ -1,0 +1,4 @@
+---
+applications:
+- name: appointing-validation-service
+  path: target/appointing-validation.jar

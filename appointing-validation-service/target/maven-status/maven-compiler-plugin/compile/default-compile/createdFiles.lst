@@ -1,0 +1,4 @@
+com\appointing\controller\ResponseEntity.class
+com\appointing\controller\ValidationController.class
+com\appointing\controller\AppointmentSlot.class
+com\appointing\AppointingValidationServiceApplication.class
