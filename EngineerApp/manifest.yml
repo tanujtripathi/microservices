@@ -1,0 +1,4 @@
+name: EngineerApp
+path: target\EngineerApp-0.0.1-SNAPSHOT.jar
+services:
+  -engineerdb
