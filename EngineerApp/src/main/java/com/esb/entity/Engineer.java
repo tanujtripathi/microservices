@@ -10,7 +10,7 @@ public class Engineer {
     @Id
     @Column(name = "ID")
     private Long id;
-
+//name
     @Column(name = "EIN")
     public Long ein;
 
